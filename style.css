@@ -1,0 +1,17 @@
+.background {
+    background-color: rgb(164,62,20,.5);
+}
+
+.recipeList li {
+    background-color: rgb(76,36,23,.5);
+    color: aliceblue;
+}
+
+a {
+    color: aliceblue;
+}
+
+h1 {
+    background-color: rgb(164,68,21,.5);
+    color: aliceblue;
+}
